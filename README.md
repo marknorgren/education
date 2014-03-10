@@ -7,8 +7,8 @@ Cryptography
 -----------
 
 
-### Cryptography I - Sanford - coursera
-[Course Link](https://www.coursera.org/course/crypto)
+* Cryptography I - Sanford - coursera
+   * [Course Link](https://www.coursera.org/course/crypto)
 
 ### Applied Cryptography - Science of Secrets
 [Course Link](https://www.udacity.com/course/cs387)
