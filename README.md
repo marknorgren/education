@@ -3,6 +3,18 @@ education
 
 Collection of educational links
 
+Cryptography
+-----------
+
+
+### Cryptography I - Sanford - coursera
+[Course Link](https://www.coursera.org/course/crypto)
+
+### Applied Cryptography - Science of Secrets
+[Course Link](https://www.udacity.com/course/cs387)
+
+### Cryptography and Cryptanalysis - MIT Open Courseware
+[Course Link](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/)
 
 Coursera
 --------
