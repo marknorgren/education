@@ -33,6 +33,11 @@ https://www.coursera.org/
 ### C++ for C programers
 [cplusplus4c-002](https://class.coursera.org/cplusplus4c-002/lecture/preview)
 
+Udacity
+-------
+
+### [How to build a startup](https://www.udacity.com/course/viewer#!/c-ep245)
+
 EdX
 ---
 
