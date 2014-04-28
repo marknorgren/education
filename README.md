@@ -41,6 +41,9 @@ Udacity
 EdX
 ---
 
+###BerkeleyX: CS169.1x Engineering Software as a Service
+[Syllabus](https://courses.edx.org/courses/BerkeleyX/CS_CS169.1x/1T2014/8e8cf6e05c8f43749fbac0938f4acbaa/)
+
 https://www.edx.org/
 
 ###UTAustinX: UT.6.01x Embedded Systems - Shape the world -
