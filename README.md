@@ -3,6 +3,11 @@ education
 
 Collection of educational links
 
+
+# Links
+
+* [awesome list](https://github.com/prakhar1989/awesome-courses)
+
 Cryptography
 -----------
 
@@ -56,7 +61,6 @@ Book - http://users.ece.utexas.edu/~valvano/Volume1/E-Book/
 
 ###Louv1.01x Paradigms of Computer Programming
 http://edx.us5.list-manage.com/track/click?u=1822a33c054dc20e223ca40e2&id=50011625b5&e=a8d58d1692
-
 
 Stanford
 --------
