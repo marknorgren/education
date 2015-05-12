@@ -7,6 +7,7 @@ Collection of educational links
 # Links
 
 * [awesome list](https://github.com/prakhar1989/awesome-courses)
+* [Google's Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
 Cryptography
 -----------
