@@ -9,9 +9,7 @@ Collection of educational links
 * [awesome list](https://github.com/prakhar1989/awesome-courses)
 * [Google's Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-Cryptography
------------
-
+## Cryptography
 
 * Cryptography I - Sanford - coursera
    * [Course Link](https://www.coursera.org/course/crypto)
@@ -21,6 +19,11 @@ Cryptography
 
 ### Cryptography and Cryptanalysis - MIT Open Courseware
 [Course Link](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/)
+
+## Functional / Reactive Programming
+
+* https://www.coursera.org/course/reactive
+* 
 
 Coursera
 --------
