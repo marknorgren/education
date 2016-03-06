@@ -45,6 +45,14 @@ https://www.coursera.org/
 Udacity
 -------
 
+## iOS 
+
+* [iOS Courses](https://www.udacity.com/courses/ios)
+* [UIKit Fundamentals](https://www.udacity.com/courses/ud788)
+* [iOS Networking with Swift](https://www.udacity.com/courses/ud421)
+* [iOS Persistence and Core Data](https://www.udacity.com/courses/ud325)
+
+
 ### [How to build a startup](https://www.udacity.com/course/viewer#!/c-ep245)
 
 EdX
